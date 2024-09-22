@@ -1,0 +1,130 @@
+.logo{
+    width: 5%;
+    height: 5%;
+}
+.white{
+    font-family: 'Fira Sans', sans-serif;
+}
+.white:hover{
+    color: rgb(168, 2, 2);
+    cursor: pointer;
+}
+.btn-fla:hover{
+    background-color: rgb(168, 2, 2) !important;
+}
+.centralizar{
+    text-align: center;
+    align-items: center;
+    margin: auto;
+    
+}
+.form-group{
+    margin-top: 1%;
+}
+footer{
+    color: white;
+}
+.conteudo
+{
+    background-image: url("../img/fla.jpeg");
+    background-repeat: no-repeat;
+    background-size: over;
+}
+.txt{
+ color: white;
+ text-decoration: none;
+}
+.txt:hover{
+    color: white !important;
+   }
+.header 
+{
+    position: sticky;
+    top: 0;
+}
+.txt-la
+{
+    color: white !important;  
+    text-transform: uppercase;
+    cursor: pointer;
+}
+.txt-la:hover
+{
+    color: red !important;
+}
+.red:checked
+{
+    background-color: red;
+}
+.link
+{
+    text-decoration: none;
+    color: red;
+    cursor: pointer;
+}
+.link:hover
+{
+    color: white;
+}
+.input-txt
+{
+    border: solid red 1px;
+}
+::-webkit-scrollbar{
+    background-color: red;
+}
+.mensagem{
+    color: white;
+    border-radius: -3px;
+    padding: 1% 0%;
+    text-align: center;
+}
+.eye
+{
+    margin-top: -33px;
+    margin-left: calc(100% - 35px);
+    display: flex;
+}
+.eye:hover
+{
+    cursor: pointer;
+}
+.pag
+{
+    margin-left: 38%;
+}
+.wall
+{
+    background-image: url("../img/wall1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.background
+{
+    background-color: white;
+}
+.home-bg
+{
+    background-image: url("../img/wall2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.menu{
+    margin: 2%;
+    text-transform: uppercase;
+}
+.profile
+{
+    background-image: url("../img/wall2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.area
+{
+    background-color: white;
+    border-radius: 30px;
+}
+.gray
+{
+    background-color: gray;
+}
